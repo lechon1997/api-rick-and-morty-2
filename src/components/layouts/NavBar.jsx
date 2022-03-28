@@ -7,7 +7,7 @@ const NavBar = () => {
       <section>
         <Link
           className="me-3 size-nav-options text-decoration-none"
-          to="//api-rick-and-morty/"
+          to="/api-rick-and-morty-2/"
         >
           Inicio
         </Link>
