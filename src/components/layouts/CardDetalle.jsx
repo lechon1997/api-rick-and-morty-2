@@ -6,7 +6,7 @@ const CardDetalle = ({ personaje, dispatch }) => {
     dispatch(agregarFavorito(personaje));
   };
   return (
-    <div className="container p-0 card mb-3 max-width-800px">
+    <div className="container p-0 card mb-3 max-width-800px shadow-sm">
       <div className="row g-0">
         <div className="col-md-3">
           <img

@@ -2,7 +2,7 @@ import React from "react";
 
 const Personaje = ({ children, personaje }) => {
   return (
-    <div className="card img m-4">
+    <div className="card img m-4 card-effect shadow">
       <img src={personaje.image} className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">{personaje.name}</h5>

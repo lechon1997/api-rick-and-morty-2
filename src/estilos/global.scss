@@ -51,3 +51,11 @@
 .corazon:hover {
   color: #b71c1c;
 }
+
+.card-effect {
+  transition: transform 0.5s;
+}
+
+.card-effect:hover {
+  transform: scale(1.03);
+}
