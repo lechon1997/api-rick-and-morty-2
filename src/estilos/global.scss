@@ -1,0 +1,53 @@
+.w-500px {
+  width: 500px;
+  background-color: yellow;
+}
+
+.h-400px {
+  height: 400px;
+}
+
+.busqueda_item {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 50px;
+  margin-top: 1px;
+  background-color: red;
+}
+
+.img_busqueda_item {
+  width: 50px;
+}
+
+.img {
+  width: 18rem;
+}
+
+.two_lines {
+  height: 40px;
+}
+
+.min-width-300px {
+  min-width: 300px;
+}
+
+.wid-buscador {
+  width: 500px;
+}
+
+.size-nav-options {
+  font-size: 20px;
+}
+
+.max-width-800px {
+  max-width: 800px;
+}
+
+.corazon {
+  color: #e57373;
+}
+
+.corazon:hover {
+  color: #b71c1c;
+}
